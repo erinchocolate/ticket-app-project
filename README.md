@@ -40,4 +40,16 @@ We used JUnit to test our implementation.
 
 ### Login
 
-[!demo](https://github.com/erinchocolate/ticket-app-project/blob/master/Demo/login.gif)
+![demo](https://github.com/erinchocolate/ticket-app-project/blob/master/Demo/login.gif)
+
+### Browse
+
+![demo](https://github.com/erinchocolate/ticket-app-project/blob/master/Demo/browsing.gif)
+
+### Select
+
+![demo](https://github.com/erinchocolate/ticket-app-project/blob/master/Demo/select.gif)
+
+### Favorite
+
+![demo](https://github.com/erinchocolate/ticket-app-project/blob/master/Demo/favorite.gif)
