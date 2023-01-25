@@ -2,7 +2,7 @@
 
 ## About this project
 
-This project is created to study waterfall project management method and software engineering.
+This project is a prototype for a ticket sale app.
 
 My teammates are:
 
